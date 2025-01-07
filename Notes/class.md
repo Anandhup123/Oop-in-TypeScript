@@ -147,7 +147,7 @@ Here, the constructor receives arguments (`name` and `age`) and initializes the 
 ### **6. Methods in Classes**
 
 Methods are functions defined inside a class. They can manipulate the class properties and perform specific tasks.
-
+ 
 #### Example:
 ```typescript
 class Calculator {
